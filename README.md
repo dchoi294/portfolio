@@ -1,3 +1,13 @@
-# Modify this portfolio
+# Don Choi Portfolio
 
-Make it your own! 
+Live URL: [Don's Portfolio](https://donsportfolio.netlify.app/)  
+
+Number and name of feature: 
+
+Estimate of time needed to complete: 
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
