@@ -231,7 +231,10 @@ header h1 {
 }
 
 #resume {
-	background: #73797F;
+	background-image: url('../public/images/portfoliopicture.png');
+	background-repeat: no-repeat;
+	background-size: 60%;
+	background-color: #313131;
 }
 
 .experience-icon {
