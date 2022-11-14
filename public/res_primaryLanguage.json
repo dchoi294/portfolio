@@ -94,6 +94,17 @@
         "technologies": [
           ""
         ]
+      },
+      {
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "Oct.2022 - Feb.2022",
+        "mainTech": [
+          "Javascript, HTML, CSS, and Python"
+        ],
+        "technologies": [
+          ""
+        ]
       }
     ]
   }
